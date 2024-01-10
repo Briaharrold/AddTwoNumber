@@ -1,24 +1,26 @@
 
+using AddTwoNumber.Services.MinichOne;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AddTwoNumber.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    public class NewApiController : ControllerBase
+    public class AddingTwoNumbersController : ControllerBase
     {
-    
-        [HttpPost]
-        [Route("Add/{firstNum}/{secondNum}")]
-       private readonly ISumService _sumService;
+       private readonly IAddTwoNumbersService _AddTwoNumbersService ;
 
-    public SumController(ISumService sumService)
+    public AddingTwoNumbersController(IAddTwoNumbersService AddTwoNumbersService)
     {
-        _sumService = sumService;
+        
+        _AddTwoNumbersService = AddTwoNumbersService;
     }
-
-    public string Numbers(string NumberOne, string NumberTwo)
+[HttpGet] 
+    [Route("{firstNum}/{secondNum}")]
+    public string Add(string firstNum, string secondNum)
     {
-        return _sumService.Numbers(NumberOne, NumberTwo);
+        
+        return _AddTwoNumbersService.Add(firstNum, secondNum);
+    }
     }
 }

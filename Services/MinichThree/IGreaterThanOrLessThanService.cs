@@ -7,6 +7,6 @@ namespace AddTwoNumber.Services.MinichThree
 {
     public interface IGreaterThanOrLessThanService
     {
-        
+           public string Greater(string firstNumber, string secondNumber);
     }
 }

@@ -1,13 +1,28 @@
 
+using AddTwoNumber.Services.MinichThree;
 using Microsoft.AspNetCore.Mvc;
 
-namespace AddTwoNumber.Controllers
-{
+namespace AddTwoNumber.Controllers;
+
     [ApiController]
     [Route("api/[controller]")]
-    public class GreaterThanOrLessThan : ControllerBase
+    public class GreaterThanOrLessThanController : ControllerBase
     {
-        //  [HttpGet]
-        // [Route("{answer1}/{answer2}")]
+     
+        private readonly IGreaterThanOrLessThanService _greaterOrLessThanService;
+
+    public GreaterThanOrLessThanController(IGreaterThanOrLessThanService greaterOrLessThanService)
+    {
+        _greaterOrLessThanService = greaterOrLessThanService;
     }
-}
+    [HttpGet]
+    [Route("Greater/{F\firstNumber}/{secondNumber}")]
+
+    public string Greater(string firstNumber, string secondNumber)
+    {
+        return _greaterOrLessThanService.Greater(firstNumber, secondNumber);
+        
+    }
+
+        }
+    
