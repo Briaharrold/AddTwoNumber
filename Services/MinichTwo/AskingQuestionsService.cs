@@ -7,11 +7,12 @@ namespace AddTwoNumber.Services.MinichTwo
 {
     public class AskingQuestionsService : IAskingQuestionsService
     {
-         public string WhoAreYou(string yourName, string timeYouWokeUp)
+        public string AskinQs(string yourName, string timeYouWokeUp)
         {
-        
+                    
         return $"hi {yourName}, you woke up at {timeYouWokeUp}";
-            
+
         }
+
     }
 }

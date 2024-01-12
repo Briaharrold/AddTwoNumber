@@ -1,7 +1,7 @@
 
 namespace AddTwoNumber.Services.MinichThree
 {
-    public class GreaterThanOrLessThanService
+    public class GreaterThanOrLessThanService : IGreaterThanOrLessThanService
     {
     public string Greater(string firstNumber, string secondNumber)
         {

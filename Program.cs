@@ -1,5 +1,7 @@
 
 using AddTwoNumber.Services.MinichOne;
+using AddTwoNumber.Services.MinichThree;
+using AddTwoNumber.Services.MinichTwo;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,6 +12,8 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<IAddTwoNumbersService, AddTwoNumbersService>();
+builder.Services.AddScoped<IGreaterThanOrLessThanService, GreaterThanOrLessThanService>();
+builder.Services.AddScoped<IAskingQuestionsService, AskingQuestionsService>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

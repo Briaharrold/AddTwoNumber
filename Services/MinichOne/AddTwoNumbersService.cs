@@ -2,11 +2,6 @@ namespace AddTwoNumber.Services.MinichOne;
 
     public class AddTwoNumbersService : IAddTwoNumbersService
     {
-    public AddTwoNumbersService()
-    {
-        
-    }
-
     public string Add(string firstNum, string secondNum)
         {
             bool isTrue = double.TryParse(firstNum, out double num1);

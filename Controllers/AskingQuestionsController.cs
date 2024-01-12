@@ -18,7 +18,7 @@ public class AskingQuestionsController : ControllerBase
 
 
     [HttpGet] 
-    [Route("Name/{name}/{time}")]
+    [Route("Name/{yourName}/{timeYouWokeUp}")]
     public string AskinQs(string yourName, string timeYouWokeUp)
     {
         return _askingQuestionsService.AskinQs(yourName, timeYouWokeUp);
