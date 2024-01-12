@@ -31,3 +31,36 @@
 /Applications/Setapp/LEVEL2/AddTwoNumber/obj/Debug/net7.0/AddTwoNumber.pdb
 /Applications/Setapp/LEVEL2/AddTwoNumber/obj/Debug/net7.0/AddTwoNumber.genruntimeconfig.cache
 /Applications/Setapp/LEVEL2/AddTwoNumber/obj/Debug/net7.0/ref/AddTwoNumber.dll
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\AddTwoNumber\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\AddTwoNumber\bin\Debug\net7.0\appsettings.json
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\AddTwoNumber\bin\Debug\net7.0\AddTwoNumber.exe
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\AddTwoNumber\bin\Debug\net7.0\AddTwoNumber.deps.json
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\AddTwoNumber\bin\Debug\net7.0\AddTwoNumber.runtimeconfig.json
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\AddTwoNumber\bin\Debug\net7.0\AddTwoNumber.dll
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\AddTwoNumber\bin\Debug\net7.0\AddTwoNumber.pdb
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\AddTwoNumber\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\AddTwoNumber\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\AddTwoNumber\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\AddTwoNumber\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\AddTwoNumber\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\AddTwoNumber\obj\Debug\net7.0\AddTwoNumber.csproj.AssemblyReference.cache
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\AddTwoNumber\obj\Debug\net7.0\AddTwoNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\AddTwoNumber\obj\Debug\net7.0\AddTwoNumber.AssemblyInfoInputs.cache
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\AddTwoNumber\obj\Debug\net7.0\AddTwoNumber.AssemblyInfo.cs
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\AddTwoNumber\obj\Debug\net7.0\AddTwoNumber.csproj.CoreCompileInputs.cache
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\AddTwoNumber\obj\Debug\net7.0\AddTwoNumber.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\AddTwoNumber\obj\Debug\net7.0\AddTwoNumber.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\AddTwoNumber\obj\Debug\net7.0\staticwebassets\msbuild.AddTwoNumber.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\AddTwoNumber\obj\Debug\net7.0\staticwebassets\msbuild.build.AddTwoNumber.props
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\AddTwoNumber\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AddTwoNumber.props
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\AddTwoNumber\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AddTwoNumber.props
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\AddTwoNumber\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\AddTwoNumber\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\AddTwoNumber\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\AddTwoNumber\obj\Debug\net7.0\scopedcss\bundle\AddTwoNumber.styles.css
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\AddTwoNumber\obj\Debug\net7.0\AddTwoNumber.csproj.CopyComplete
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\AddTwoNumber\obj\Debug\net7.0\AddTwoNumber.dll
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\AddTwoNumber\obj\Debug\net7.0\refint\AddTwoNumber.dll
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\AddTwoNumber\obj\Debug\net7.0\AddTwoNumber.pdb
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\AddTwoNumber\obj\Debug\net7.0\AddTwoNumber.genruntimeconfig.cache
+C:\Users\sinat\OneDrive\Documents\CodeStack_23-24\level 2\AddTwoNumber\obj\Debug\net7.0\ref\AddTwoNumber.dll

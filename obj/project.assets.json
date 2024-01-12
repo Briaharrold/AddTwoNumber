@@ -469,19 +469,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/briaharrold/.nuget/packages/": {}
+    "C:\\Users\\sinat\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Applications/Setapp/LEVEL2/AddTwoNumber/AddTwoNumber.csproj",
+      "projectUniqueName": "C:\\Users\\sinat\\OneDrive\\Documents\\CodeStack_23-24\\level 2\\AddTwoNumber\\AddTwoNumber.csproj",
       "projectName": "AddTwoNumber",
-      "projectPath": "/Applications/Setapp/LEVEL2/AddTwoNumber/AddTwoNumber.csproj",
-      "packagesPath": "/Users/briaharrold/.nuget/packages/",
-      "outputPath": "/Applications/Setapp/LEVEL2/AddTwoNumber/obj/",
+      "projectPath": "C:\\Users\\sinat\\OneDrive\\Documents\\CodeStack_23-24\\level 2\\AddTwoNumber\\AddTwoNumber.csproj",
+      "packagesPath": "C:\\Users\\sinat\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sinat\\OneDrive\\Documents\\CodeStack_23-24\\level 2\\AddTwoNumber\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/briaharrold/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\sinat\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -533,7 +533,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
